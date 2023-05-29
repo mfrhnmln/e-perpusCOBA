@@ -18,3 +18,4 @@ RewriteRule ^data-peminjaman$ home.php?module=pages/views/v_peminjaman [L]
 
 RewriteRule ^keluar$ logout.php [L]
 </IfModule>
+#cobacobacoba
